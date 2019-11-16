@@ -12,4 +12,4 @@ A place to include any other types of information that you'd like to include abo
 
 ### Contact me
 
-[whuwdx@gmail.com](mailto:whuwdx@gmail.com)
+[dwgithub98@gmail.com](mailto:dwgithub98@gmail.com)
