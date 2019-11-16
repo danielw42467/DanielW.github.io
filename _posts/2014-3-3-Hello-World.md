@@ -1,10 +1,21 @@
 ---
 layout: post
-title: You're up and running!
+title: introduction
+published: true
 ---
+本Blog由本人用于记录和发表国外留学期间的所思所感所想。其核心在于通过思考记录以及讨论交流来升华自己的认知。
+所以任何议题，其客观和主观的偏差，认知角度的各异，必然会造成不同的理解。欢迎评论讨论。
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+本Blog所有议题聚焦于三个领域及其交叉部分：政治，宏观经济，金融市场。
+由于该领域具有高度的政治敏感性和言论导向性，不得已而匿名之。
+作者力求在事实面前保持最大程度的客观性，同时以经济结果为导向性讨论各类事件，效用化议题。
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+因为：单纯谈政治无意义，除非有参政议政或改变政权的权利。谈政治之始末，无外乎求得国泰民安，即经济上的繁荣和社会上的安定。
+所以谈政治亦有意义，因为经济体的发展不可能完全脱离政治干预 -- 即使是仅存在于理论中的Free Market事实上本质也是一种在政治上主动deregulation的过程。
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+由于部分学术性词汇缺乏官方准确的翻译，同时部分敏感性词汇容易受到屏蔽，可能部分文章会出现中英混杂的语句。本质上不是卖弄或故作玄虚，只是为求得能以最恰当的方式最贴切表达作者的含义。若有对阅读理解上的妨碍，尽请海涵。
+
+关于如何使用GitHub写匿名blog，请参考[Jekyll Now repository](https://www.smashingmagazine.com/2014/08/build-blog-jekyll-github-pages/).
+
+2019/11/16
+
